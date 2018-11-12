@@ -1,0 +1,40 @@
+@charset 'UTF-8';
+$Blue: #409EFF;
+$Black: #323338;
+$Grey: #818287;
+
+$bwidth: 1180px;
+
+div,
+ul,
+li,
+p,
+a,
+i {
+  box-sizing: border-box;
+}
+
+.clearfix:after {
+  display: block;
+  clear: both;
+  content: "";
+  visibility: hidden;
+  height: 0;
+}
+
+.clearfix {
+  zoom: 1;
+}
+
+.oil-title {
+  height: 74px;
+  line-height: 74px;
+  font-size: 22px;
+  font-weight: bold;
+  border-bottom: 1px solid rgba(234, 237, 243, 1);
+}
+
+.oilNum td .el-date-editor.el-input,.oilNum .el-date-editor.el-input__inner{
+  width: 152px;
+}
+ 

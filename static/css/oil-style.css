@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+.oil-tabs{
+    height: 100%;
+    font-size: 0;
+}
+.oil-tabs-item{
+    display: inline-block;
+    height: 100%;
+    font-size: 14px;
+    line-height: 60px;
+    text-align: center;
+    vertical-align: top;
+    color: #ffffff;
+    margin-left:20px; 
+}
+.oil-tabs-item.on{
+    color: #409eff;
+} 
+.el-table .cell, .el-table th div, .el-table--border td:first-child .cell, .el-table--border th:first-child .cell{
+    padding-left: 20px!important;
+}
+.el-table th>.cell{
+    font-size: 12px;
+}
+/* .right-body .el-table td, .el-table th.is-leaf{
+    border:none;
+}
+.right-body .el-table thead{
+    color:#3E3F42;
+}
+.right-body .el-table--enable-row-hover .el-table__body tr:hover>td {
+    background-color: #ffffff;
+}
+.right-body .el-table::before{
+    height: 0px;
+}
+.right-body .el-table td{
+    padding:4px 0;
+  }
+.right-body .el-table .el-table__row:first-of-type td{
+    padding-top:18px;
+}
+.right-body .el-table .el-table__row:last-of-type td{
+    padding-bottom:20px;
+}
+.right-body .el-table .el-table__row .el-table_1_column_1 .cell{
+    padding-left:20px;
+    padding-right:0;
+}
+.right-body .el-table{
+    border: 1px solid rgba(234,237,243,1);
+}
+.right-body .has-gutter .el-table_1_column_1 .cell{
+    padding-left: 20px;
+    padding-right: 0px;
+}
+.el-table__row .el-table_1_column_2 .cell,.el-table__row .el-table_1_column_3 .cell,.el-table__row .el-table_1_column_4 .cell{
+    padding-left: 0px;
+    padding-right: 0px;
+} */
